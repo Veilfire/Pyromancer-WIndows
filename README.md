@@ -2,7 +2,7 @@
 
 **A security-first, AI-powered terminal emulator for Windows 11 with GPU-accelerated rendering.**
 
-Pyromancer is a native Windows 11 terminal application by [Veilfire](https://veilfire.dev) that pairs a high-performance GPU-rendered terminal with an autonomous AI agent system. Every feature is designed with a privacy-first philosophy: secrets never leave Windows DPAPI, all AI actions are auditable, and destructive commands require explicit human approval.
+Pyromancer is a native Windows 11 terminal application by [Veilfire](https://veilfire.io) that pairs a high-performance GPU-rendered terminal with an autonomous AI agent system. Every feature is designed with a privacy-first philosophy: secrets never leave Windows DPAPI, all AI actions are auditable, and destructive commands require explicit human approval.
 
 ---
 
